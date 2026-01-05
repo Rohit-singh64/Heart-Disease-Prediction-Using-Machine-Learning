@@ -1,4 +1,4 @@
-## ❤️ Heart Disease Prediction Using Machine Learning
+##  Heart Disease Prediction Using Machine Learning
 
 ## Project Overview
 Heart disease is one of the leading causes of death worldwide. Early prediction and diagnosis can significantly reduce the risk and improve patient outcomes.  
@@ -68,6 +68,4 @@ Brainybeam Info-Tech Pvt. Ltd.
 
 
 ## Name
-Rohit Kumar Singh  
-
-⭐ *If you like this project, don’t forget to give it a star!*  
+Rohit Kumar Singh   
